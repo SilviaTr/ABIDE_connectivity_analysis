@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-08-19T18:37:45.041513+00:00",
+  "atlas_reference": "/Volumes/Elements/ABIDE_data/ABIDE_pipeline/atlases/atlas_craddock400/cc400_roi_atlas.nii.gz",
+  "atlas_shape": [
+    63,
+    75,
+    61
+  ],
+  "outputs": {
+    "yeo7_on_craddock": {
+      "path": "/Volumes/Elements/ABIDE_data/ABIDE_pipeline/atlases/yeo/yeo7_on_craddock.nii.gz",
+      "md5": "191b906940c0785f6c9ecee9ee985582"
+    },
+    "yeo17_on_craddock": {
+      "path": "/Volumes/Elements/ABIDE_data/ABIDE_pipeline/atlases/yeo/yeo17_on_craddock.nii.gz",
+      "md5": "6c5215c0d15c473ee4b6967f93b0ec4a"
+    }
+  }
+}

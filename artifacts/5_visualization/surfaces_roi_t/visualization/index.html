@@ -1,0 +1,57 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Surface — ROI t (mean) on significant edges (FDR &lt; 0.05) — Yeo-7</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 16px; }
+  .controls { display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin-bottom:12px; }
+  select { padding:6px 8px; border-radius:6px; }
+  iframe { width:100%; height:80vh; border:1px solid #ccc; border-radius:8px; }
+</style>
+<h2 style="margin:0 0 12px 0;">ROI t (mean) on significant edges (FDR &lt; 0.05) — Yeo-7 filter</h2>
+
+<div class="controls">
+  <label><strong>Type:</strong></label>
+  <select id="kind" onchange="sync()">
+    <option value="intra" selected>intra</option>
+    <option value="inter" >inter</option>
+  </select>
+
+  <label><strong>Connection:</strong></label>
+  <select id="pair" onchange="upd()"></select>
+</div>
+
+<iframe id="frame" src="surf_yeo7_intra_Default_Mode_roiT_mean.html" loading="lazy"></iframe>
+
+<script>
+const yeo7_intra = {"Default Mode (149 edges)": "surf_yeo7_intra_Default_Mode_roiT_mean.html", "Dorsal Attention (40 edges)": "surf_yeo7_intra_Dorsal_Attention_roiT_mean.html", "Frontoparietal Control (49 edges)": "surf_yeo7_intra_Frontoparietal_Control_roiT_mean.html", "Limbic (15 edges)": "surf_yeo7_intra_Limbic_roiT_mean.html", "Salience / Ventral Attention (38 edges)": "surf_yeo7_intra_Salience_-_Ventral_Attention_roiT_mean.html", "Somatomotor (41 edges)": "surf_yeo7_intra_Somatomotor_roiT_mean.html", "Unknown (111 edges)": "surf_yeo7_intra_Unknown_roiT_mean.html", "Visual (134 edges)": "surf_yeo7_intra_Visual_roiT_mean.html"};
+const yeo7_inter = {"Default Mode ↔ Dorsal Attention (163 edges)": "surf_yeo7_inter_Default_Mode__x__Dorsal_Attention_roiT_mean.html", "Default Mode ↔ Frontoparietal Control (197 edges)": "surf_yeo7_inter_Default_Mode__x__Frontoparietal_Control_roiT_mean.html", "Default Mode ↔ Limbic (120 edges)": "surf_yeo7_inter_Default_Mode__x__Limbic_roiT_mean.html", "Default Mode ↔ Salience / Ventral Attention (140 edges)": "surf_yeo7_inter_Default_Mode__x__Salience_-_Ventral_Attention_roiT_mean.html", "Default Mode ↔ Somatomotor (172 edges)": "surf_yeo7_inter_Default_Mode__x__Somatomotor_roiT_mean.html", "Default Mode ↔ Unknown (271 edges)": "surf_yeo7_inter_Default_Mode__x__Unknown_roiT_mean.html", "Default Mode ↔ Visual (315 edges)": "surf_yeo7_inter_Default_Mode__x__Visual_roiT_mean.html", "Dorsal Attention ↔ Frontoparietal Control (87 edges)": "surf_yeo7_inter_Dorsal_Attention__x__Frontoparietal_Control_roiT_mean.html", "Dorsal Attention ↔ Limbic (52 edges)": "surf_yeo7_inter_Dorsal_Attention__x__Limbic_roiT_mean.html", "Dorsal Attention ↔ Salience / Ventral Attention (67 edges)": "surf_yeo7_inter_Dorsal_Attention__x__Salience_-_Ventral_Attention_roiT_mean.html", "Dorsal Attention ↔ Somatomotor (80 edges)": "surf_yeo7_inter_Dorsal_Attention__x__Somatomotor_roiT_mean.html", "Dorsal Attention ↔ Unknown (130 edges)": "surf_yeo7_inter_Dorsal_Attention__x__Unknown_roiT_mean.html", "Dorsal Attention ↔ Visual (157 edges)": "surf_yeo7_inter_Dorsal_Attention__x__Visual_roiT_mean.html", "Frontoparietal Control ↔ Limbic (61 edges)": "surf_yeo7_inter_Frontoparietal_Control__x__Limbic_roiT_mean.html", "Frontoparietal Control ↔ Salience / Ventral Attention (74 edges)": "surf_yeo7_inter_Frontoparietal_Control__x__Salience_-_Ventral_Attention_roiT_mean.html", "Frontoparietal Control ↔ Somatomotor (72 edges)": "surf_yeo7_inter_Frontoparietal_Control__x__Somatomotor_roiT_mean.html", "Frontoparietal Control ↔ Unknown (142 edges)": "surf_yeo7_inter_Frontoparietal_Control__x__Unknown_roiT_mean.html", "Frontoparietal Control ↔ Visual (180 edges)": "surf_yeo7_inter_Frontoparietal_Control__x__Visual_roiT_mean.html", "Limbic ↔ Salience / Ventral Attention (41 edges)": "surf_yeo7_inter_Limbic__x__Salience_-_Ventral_Attention_roiT_mean.html", "Limbic ↔ Somatomotor (47 edges)": "surf_yeo7_inter_Limbic__x__Somatomotor_roiT_mean.html", "Limbic ↔ Unknown (78 edges)": "surf_yeo7_inter_Limbic__x__Unknown_roiT_mean.html", "Limbic ↔ Visual (98 edges)": "surf_yeo7_inter_Limbic__x__Visual_roiT_mean.html", "Salience / Ventral Attention ↔ Somatomotor (71 edges)": "surf_yeo7_inter_Salience_-_Ventral_Attention__x__Somatomotor_roiT_mean.html", "Salience / Ventral Attention ↔ Unknown (97 edges)": "surf_yeo7_inter_Salience_-_Ventral_Attention__x__Unknown_roiT_mean.html", "Salience / Ventral Attention ↔ Visual (144 edges)": "surf_yeo7_inter_Salience_-_Ventral_Attention__x__Visual_roiT_mean.html", "Somatomotor ↔ Unknown (124 edges)": "surf_yeo7_inter_Somatomotor__x__Unknown_roiT_mean.html", "Somatomotor ↔ Visual (152 edges)": "surf_yeo7_inter_Somatomotor__x__Visual_roiT_mean.html", "Unknown ↔ Visual (230 edges)": "surf_yeo7_inter_Unknown__x__Visual_roiT_mean.html"};
+
+function clear(sel) {
+  while (sel.firstChild) sel.removeChild(sel.firstChild);
+}
+function fillOptions(obj) {
+  const sel = document.getElementById('pair');
+  clear(sel);
+  // Optionally include "All significant" at top
+  const allOpt = document.createElement('option');
+  allOpt.value = "surf_ALL_roiT_mean.html";
+  allOpt.textContent = "All significant";
+  sel.appendChild(allOpt);
+
+  for (const [k,v] of Object.entries(obj)) {
+    const o = document.createElement('option');
+    o.value = v; o.textContent = k; sel.appendChild(o);
+  }
+}
+function sync() {
+  const kd = document.getElementById('kind').value; // 'intra' or 'inter'
+  fillOptions(kd === 'intra' ? yeo7_intra : yeo7_inter);
+  upd();
+}
+function upd() {
+  const sel = document.getElementById('pair');
+  const file = sel.value;
+  if (file) document.getElementById('frame').src = file;
+}
+sync();
+</script>

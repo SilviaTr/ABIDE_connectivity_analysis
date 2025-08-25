@@ -1,0 +1,393 @@
+ROI_number,deg_sig,Yeo7_id,Yeo7_name,Yeo17_id,Yeo17_name
+390,117,0,Unknown,0,Unknown
+21,100,0,Unknown,0,Unknown
+182,95,5,Limbic,9,Limbic – A
+225,80,1,Visual,1,Visual – Central
+239,77,6,Frontoparietal Control,11,Frontoparietal Control – A
+230,77,0,Unknown,0,Unknown
+113,74,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+49,72,3,Dorsal Attention,6,Dorsal Attention – B
+280,71,7,Default Mode,17,Temporo-Parietal
+229,69,1,Visual,2,Visual – Peripheral
+114,65,1,Visual,1,Visual – Central
+33,64,0,Unknown,0,Unknown
+391,63,1,Visual,2,Visual – Peripheral
+92,61,1,Visual,2,Visual – Peripheral
+360,61,3,Dorsal Attention,6,Dorsal Attention – B
+294,61,1,Visual,5,Dorsal Attention – A
+168,59,5,Limbic,10,Limbic – B
+267,58,1,Visual,15,Default Mode – B
+51,58,3,Dorsal Attention,11,Frontoparietal Control – A
+189,57,7,Default Mode,16,Default Mode – C
+201,57,7,Default Mode,10,Limbic – B
+133,57,7,Default Mode,17,Temporo-Parietal
+191,55,3,Dorsal Attention,12,Frontoparietal Control – B
+106,55,6,Frontoparietal Control,13,Frontoparietal Control – C
+382,55,0,Unknown,0,Unknown
+129,54,7,Default Mode,16,Default Mode – C
+241,53,6,Frontoparietal Control,12,Frontoparietal Control – B
+87,53,5,Limbic,9,Limbic – A
+242,52,1,Visual,2,Visual – Peripheral
+70,52,1,Visual,1,Visual – Central
+146,52,1,Visual,1,Visual – Central
+217,52,7,Default Mode,14,Default Mode – A
+354,51,6,Frontoparietal Control,12,Frontoparietal Control – B
+82,51,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+100,51,5,Limbic,10,Limbic – B
+231,50,1,Visual,1,Visual – Central
+95,50,2,Somatomotor,4,Somatomotor – B
+134,48,0,Unknown,0,Unknown
+34,48,7,Default Mode,17,Temporo-Parietal
+18,48,0,Unknown,0,Unknown
+53,47,7,Default Mode,17,Temporo-Parietal
+321,46,0,Unknown,0,Unknown
+254,46,7,Default Mode,13,Frontoparietal Control – C
+96,45,6,Frontoparietal Control,8,Salience/Ventral Attention – B
+261,44,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+194,44,2,Somatomotor,3,Somatomotor – A
+359,43,2,Somatomotor,3,Somatomotor – A
+325,43,7,Default Mode,16,Default Mode – C
+125,42,0,Unknown,0,Unknown
+240,42,3,Dorsal Attention,5,Dorsal Attention – A
+121,42,6,Frontoparietal Control,10,Limbic – B
+172,41,6,Frontoparietal Control,13,Frontoparietal Control – C
+126,40,0,Unknown,0,Unknown
+174,40,3,Dorsal Attention,6,Dorsal Attention – B
+29,39,6,Frontoparietal Control,8,Salience/Ventral Attention – B
+37,39,1,Visual,2,Visual – Peripheral
+306,38,7,Default Mode,13,Frontoparietal Control – C
+154,38,7,Default Mode,16,Default Mode – C
+122,38,1,Visual,2,Visual – Peripheral
+139,38,5,Limbic,15,Default Mode – B
+79,37,0,Unknown,0,Unknown
+392,37,7,Default Mode,16,Default Mode – C
+184,37,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+3,37,2,Somatomotor,4,Somatomotor – B
+158,36,7,Default Mode,16,Default Mode – C
+151,35,1,Visual,1,Visual – Central
+10,35,2,Somatomotor,4,Somatomotor – B
+16,35,6,Frontoparietal Control,13,Frontoparietal Control – C
+363,35,2,Somatomotor,4,Somatomotor – B
+65,35,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+281,34,2,Somatomotor,3,Somatomotor – A
+11,34,7,Default Mode,16,Default Mode – C
+98,34,0,Unknown,0,Unknown
+213,33,0,Unknown,0,Unknown
+289,32,7,Default Mode,17,Temporo-Parietal
+48,32,7,Default Mode,13,Frontoparietal Control – C
+155,31,6,Frontoparietal Control,13,Frontoparietal Control – C
+373,31,0,Unknown,0,Unknown
+23,31,2,Somatomotor,4,Somatomotor – B
+339,31,0,Unknown,0,Unknown
+303,30,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+107,30,2,Somatomotor,4,Somatomotor – B
+233,30,0,Unknown,0,Unknown
+188,30,1,Visual,15,Default Mode – B
+275,29,3,Dorsal Attention,11,Frontoparietal Control – A
+145,29,2,Somatomotor,3,Somatomotor – A
+369,29,0,Unknown,0,Unknown
+220,29,2,Somatomotor,3,Somatomotor – A
+135,29,3,Dorsal Attention,15,Default Mode – B
+302,29,2,Somatomotor,4,Somatomotor – B
+389,29,2,Somatomotor,3,Somatomotor – A
+332,28,1,Visual,1,Visual – Central
+214,28,6,Frontoparietal Control,12,Frontoparietal Control – B
+39,28,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+227,28,1,Visual,1,Visual – Central
+81,28,2,Somatomotor,4,Somatomotor – B
+14,28,0,Unknown,0,Unknown
+245,28,0,Unknown,0,Unknown
+59,27,7,Default Mode,17,Temporo-Parietal
+358,27,0,Unknown,0,Unknown
+120,27,7,Default Mode,15,Default Mode – B
+296,27,3,Dorsal Attention,5,Dorsal Attention – A
+112,26,5,Limbic,17,Temporo-Parietal
+181,26,3,Dorsal Attention,5,Dorsal Attention – A
+77,26,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+287,26,3,Dorsal Attention,5,Dorsal Attention – A
+102,26,3,Dorsal Attention,6,Dorsal Attention – B
+272,26,6,Frontoparietal Control,12,Frontoparietal Control – B
+97,26,0,Unknown,0,Unknown
+226,26,6,Frontoparietal Control,8,Salience/Ventral Attention – B
+105,25,1,Visual,1,Visual – Central
+234,25,1,Visual,5,Dorsal Attention – A
+384,25,3,Dorsal Attention,5,Dorsal Attention – A
+235,25,7,Default Mode,17,Temporo-Parietal
+368,25,7,Default Mode,16,Default Mode – C
+68,25,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+246,24,4,Salience / Ventral Attention,4,Somatomotor – B
+315,24,0,Unknown,0,Unknown
+251,24,6,Frontoparietal Control,12,Frontoparietal Control – B
+161,24,2,Somatomotor,4,Somatomotor – B
+83,24,1,Visual,5,Dorsal Attention – A
+156,24,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+224,24,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+110,24,3,Dorsal Attention,5,Dorsal Attention – A
+109,24,7,Default Mode,16,Default Mode – C
+327,23,6,Frontoparietal Control,11,Frontoparietal Control – A
+381,23,3,Dorsal Attention,5,Dorsal Attention – A
+361,23,1,Visual,5,Dorsal Attention – A
+343,23,7,Default Mode,17,Temporo-Parietal
+175,23,1,Visual,1,Visual – Central
+186,23,7,Default Mode,17,Temporo-Parietal
+140,23,7,Default Mode,17,Temporo-Parietal
+386,23,6,Frontoparietal Control,8,Salience/Ventral Attention – B
+319,23,4,Salience / Ventral Attention,14,Default Mode – A
+353,22,1,Visual,2,Visual – Peripheral
+337,22,7,Default Mode,15,Default Mode – B
+282,22,1,Visual,2,Visual – Peripheral
+323,22,3,Dorsal Attention,6,Dorsal Attention – B
+190,22,7,Default Mode,16,Default Mode – C
+274,22,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+268,22,1,Visual,2,Visual – Peripheral
+73,22,6,Frontoparietal Control,12,Frontoparietal Control – B
+205,22,7,Default Mode,14,Default Mode – A
+208,22,1,Visual,2,Visual – Peripheral
+115,22,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+152,22,0,Unknown,0,Unknown
+340,21,1,Visual,1,Visual – Central
+299,21,0,Unknown,0,Unknown
+293,21,3,Dorsal Attention,12,Frontoparietal Control – B
+193,21,7,Default Mode,16,Default Mode – C
+376,21,3,Dorsal Attention,5,Dorsal Attention – A
+215,21,7,Default Mode,13,Frontoparietal Control – C
+197,21,7,Default Mode,14,Default Mode – A
+9,21,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+57,21,7,Default Mode,17,Temporo-Parietal
+177,20,7,Default Mode,15,Default Mode – B
+13,20,1,Visual,1,Visual – Central
+223,20,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+30,20,7,Default Mode,17,Temporo-Parietal
+180,20,1,Visual,2,Visual – Peripheral
+52,20,2,Somatomotor,14,Default Mode – A
+308,20,1,Visual,5,Dorsal Attention – A
+64,20,6,Frontoparietal Control,8,Salience/Ventral Attention – B
+130,20,2,Somatomotor,4,Somatomotor – B
+317,19,2,Somatomotor,4,Somatomotor – B
+266,19,7,Default Mode,16,Default Mode – C
+153,19,6,Frontoparietal Control,13,Frontoparietal Control – C
+249,19,7,Default Mode,17,Temporo-Parietal
+74,19,6,Frontoparietal Control,12,Frontoparietal Control – B
+22,19,2,Somatomotor,4,Somatomotor – B
+355,19,3,Dorsal Attention,6,Dorsal Attention – B
+247,19,0,Unknown,0,Unknown
+352,19,2,Somatomotor,3,Somatomotor – A
+288,19,5,Limbic,9,Limbic – A
+159,19,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+12,19,5,Limbic,9,Limbic – A
+221,18,7,Default Mode,17,Temporo-Parietal
+91,18,5,Limbic,9,Limbic – A
+166,18,5,Limbic,9,Limbic – A
+38,18,7,Default Mode,16,Default Mode – C
+5,18,4,Salience / Ventral Attention,14,Default Mode – A
+63,18,1,Visual,1,Visual – Central
+4,17,0,Unknown,0,Unknown
+192,17,6,Frontoparietal Control,8,Salience/Ventral Attention – B
+271,17,7,Default Mode,14,Default Mode – A
+209,17,7,Default Mode,13,Frontoparietal Control – C
+238,17,0,Unknown,0,Unknown
+196,17,0,Unknown,0,Unknown
+195,17,0,Unknown,0,Unknown
+150,17,7,Default Mode,17,Temporo-Parietal
+269,17,1,Visual,2,Visual – Peripheral
+250,17,2,Somatomotor,4,Somatomotor – B
+333,17,5,Limbic,15,Default Mode – B
+277,17,5,Limbic,9,Limbic – A
+326,17,1,Visual,1,Visual – Central
+367,16,1,Visual,1,Visual – Central
+346,16,3,Dorsal Attention,12,Frontoparietal Control – B
+366,16,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+320,16,6,Frontoparietal Control,12,Frontoparietal Control – B
+55,16,1,Visual,5,Dorsal Attention – A
+338,16,7,Default Mode,17,Temporo-Parietal
+99,16,7,Default Mode,11,Frontoparietal Control – A
+46,16,2,Somatomotor,4,Somatomotor – B
+203,16,7,Default Mode,15,Default Mode – B
+218,16,3,Dorsal Attention,5,Dorsal Attention – A
+141,16,7,Default Mode,13,Frontoparietal Control – C
+290,15,3,Dorsal Attention,12,Frontoparietal Control – B
+232,15,7,Default Mode,16,Default Mode – C
+88,15,6,Frontoparietal Control,8,Salience/Ventral Attention – B
+344,15,3,Dorsal Attention,6,Dorsal Attention – B
+45,15,5,Limbic,9,Limbic – A
+286,15,1,Visual,1,Visual – Central
+311,15,0,Unknown,0,Unknown
+262,15,7,Default Mode,15,Default Mode – B
+347,15,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+199,15,3,Dorsal Attention,6,Dorsal Attention – B
+176,15,1,Visual,1,Visual – Central
+108,15,1,Visual,2,Visual – Peripheral
+387,15,6,Frontoparietal Control,13,Frontoparietal Control – C
+44,14,6,Frontoparietal Control,13,Frontoparietal Control – C
+329,14,7,Default Mode,14,Default Mode – A
+309,14,1,Visual,15,Default Mode – B
+324,14,1,Visual,1,Visual – Central
+335,14,1,Visual,1,Visual – Central
+142,14,7,Default Mode,16,Default Mode – C
+111,14,5,Limbic,9,Limbic – A
+316,14,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+212,13,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+131,13,7,Default Mode,17,Temporo-Parietal
+297,13,7,Default Mode,17,Temporo-Parietal
+350,13,1,Visual,2,Visual – Peripheral
+58,13,1,Visual,2,Visual – Peripheral
+385,13,6,Frontoparietal Control,8,Salience/Ventral Attention – B
+179,13,1,Visual,5,Dorsal Attention – A
+255,13,7,Default Mode,17,Temporo-Parietal
+128,13,7,Default Mode,14,Default Mode – A
+2,12,6,Frontoparietal Control,8,Salience/Ventral Attention – B
+20,12,2,Somatomotor,3,Somatomotor – A
+283,12,7,Default Mode,16,Default Mode – C
+17,12,0,Unknown,0,Unknown
+278,12,3,Dorsal Attention,5,Dorsal Attention – A
+374,12,7,Default Mode,17,Temporo-Parietal
+379,12,6,Frontoparietal Control,8,Salience/Ventral Attention – B
+104,12,3,Dorsal Attention,6,Dorsal Attention – B
+178,12,7,Default Mode,17,Temporo-Parietal
+144,12,0,Unknown,0,Unknown
+35,12,2,Somatomotor,3,Somatomotor – A
+116,12,7,Default Mode,17,Temporo-Parietal
+342,12,1,Visual,2,Visual – Peripheral
+101,12,5,Limbic,17,Temporo-Parietal
+202,12,6,Frontoparietal Control,13,Frontoparietal Control – C
+86,12,0,Unknown,0,Unknown
+167,12,3,Dorsal Attention,12,Frontoparietal Control – B
+28,12,2,Somatomotor,3,Somatomotor – A
+94,11,3,Dorsal Attention,12,Frontoparietal Control – B
+300,11,0,Unknown,0,Unknown
+377,11,1,Visual,1,Visual – Central
+138,11,7,Default Mode,17,Temporo-Parietal
+183,11,1,Visual,1,Visual – Central
+136,11,1,Visual,1,Visual – Central
+204,11,0,Unknown,0,Unknown
+50,11,0,Unknown,0,Unknown
+170,11,5,Limbic,10,Limbic – B
+248,11,7,Default Mode,16,Default Mode – C
+305,11,2,Somatomotor,4,Somatomotor – B
+147,10,2,Somatomotor,3,Somatomotor – A
+383,10,7,Default Mode,14,Default Mode – A
+313,10,5,Limbic,9,Limbic – A
+312,10,7,Default Mode,17,Temporo-Parietal
+165,10,2,Somatomotor,4,Somatomotor – B
+216,10,2,Somatomotor,3,Somatomotor – A
+318,10,1,Visual,1,Visual – Central
+252,10,7,Default Mode,16,Default Mode – C
+207,10,6,Frontoparietal Control,13,Frontoparietal Control – C
+89,10,6,Frontoparietal Control,13,Frontoparietal Control – C
+336,10,2,Somatomotor,4,Somatomotor – B
+243,10,7,Default Mode,17,Temporo-Parietal
+334,10,2,Somatomotor,6,Dorsal Attention – B
+72,10,3,Dorsal Attention,6,Dorsal Attention – B
+362,10,1,Visual,1,Visual – Central
+370,10,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+265,10,6,Frontoparietal Control,12,Frontoparietal Control – B
+260,10,5,Limbic,17,Temporo-Parietal
+71,10,0,Unknown,0,Unknown
+292,9,0,Unknown,0,Unknown
+351,9,1,Visual,2,Visual – Peripheral
+348,9,1,Visual,2,Visual – Peripheral
+388,9,5,Limbic,9,Limbic – A
+210,9,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+27,9,0,Unknown,0,Unknown
+118,9,7,Default Mode,11,Frontoparietal Control – A
+279,9,6,Frontoparietal Control,13,Frontoparietal Control – C
+56,9,3,Dorsal Attention,6,Dorsal Attention – B
+164,9,7,Default Mode,16,Default Mode – C
+43,9,1,Visual,1,Visual – Central
+76,9,1,Visual,2,Visual – Peripheral
+36,9,7,Default Mode,17,Temporo-Parietal
+291,9,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+26,8,3,Dorsal Attention,5,Dorsal Attention – A
+330,8,1,Visual,15,Default Mode – B
+310,8,0,Unknown,0,Unknown
+1,8,1,Visual,2,Visual – Peripheral
+93,8,7,Default Mode,16,Default Mode – C
+124,8,2,Somatomotor,3,Somatomotor – A
+253,8,1,Visual,2,Visual – Peripheral
+263,8,3,Dorsal Attention,5,Dorsal Attention – A
+264,8,7,Default Mode,16,Default Mode – C
+219,8,1,Visual,1,Visual – Central
+256,8,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+137,8,7,Default Mode,16,Default Mode – C
+8,7,6,Frontoparietal Control,12,Frontoparietal Control – B
+284,7,1,Visual,15,Default Mode – B
+258,7,0,Unknown,0,Unknown
+78,7,0,Unknown,0,Unknown
+69,7,7,Default Mode,16,Default Mode – C
+84,7,7,Default Mode,16,Default Mode – C
+103,7,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+117,7,2,Somatomotor,4,Somatomotor – B
+211,7,1,Visual,11,Frontoparietal Control – A
+331,7,2,Somatomotor,4,Somatomotor – B
+123,7,7,Default Mode,17,Temporo-Parietal
+187,7,2,Somatomotor,3,Somatomotor – A
+371,7,6,Frontoparietal Control,13,Frontoparietal Control – C
+143,6,5,Limbic,9,Limbic – A
+222,6,6,Frontoparietal Control,13,Frontoparietal Control – C
+341,6,7,Default Mode,14,Default Mode – A
+162,6,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+356,6,6,Frontoparietal Control,12,Frontoparietal Control – B
+7,6,3,Dorsal Attention,12,Frontoparietal Control – B
+375,6,0,Unknown,0,Unknown
+273,6,7,Default Mode,17,Temporo-Parietal
+328,6,0,Unknown,0,Unknown
+60,6,7,Default Mode,16,Default Mode – C
+54,6,2,Somatomotor,3,Somatomotor – A
+270,6,2,Somatomotor,4,Somatomotor – B
+66,6,2,Somatomotor,14,Default Mode – A
+307,6,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+67,6,0,Unknown,0,Unknown
+47,5,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+85,5,1,Visual,15,Default Mode – B
+206,5,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+228,5,7,Default Mode,17,Temporo-Parietal
+90,5,2,Somatomotor,3,Somatomotor – A
+380,5,2,Somatomotor,3,Somatomotor – A
+157,5,2,Somatomotor,14,Default Mode – A
+236,5,4,Salience / Ventral Attention,4,Somatomotor – B
+19,5,5,Limbic,9,Limbic – A
+378,4,1,Visual,2,Visual – Peripheral
+259,4,1,Visual,5,Dorsal Attention – A
+132,4,0,Unknown,0,Unknown
+75,4,4,Salience / Ventral Attention,8,Salience/Ventral Attention – B
+200,4,4,Salience / Ventral Attention,11,Frontoparietal Control – A
+149,4,7,Default Mode,10,Limbic – B
+185,4,0,Unknown,0,Unknown
+345,4,3,Dorsal Attention,6,Dorsal Attention – B
+237,4,6,Frontoparietal Control,13,Frontoparietal Control – C
+6,4,1,Visual,5,Dorsal Attention – A
+32,4,6,Frontoparietal Control,12,Frontoparietal Control – B
+163,4,1,Visual,2,Visual – Peripheral
+42,4,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+322,4,1,Visual,1,Visual – Central
+295,3,1,Visual,2,Visual – Peripheral
+15,3,6,Frontoparietal Control,13,Frontoparietal Control – C
+127,3,0,Unknown,0,Unknown
+257,3,2,Somatomotor,3,Somatomotor – A
+357,3,0,Unknown,0,Unknown
+80,3,6,Frontoparietal Control,13,Frontoparietal Control – C
+31,3,6,Frontoparietal Control,13,Frontoparietal Control – C
+41,3,1,Visual,5,Dorsal Attention – A
+365,3,0,Unknown,0,Unknown
+25,3,5,Limbic,10,Limbic – B
+314,2,4,Salience / Ventral Attention,14,Default Mode – A
+298,2,5,Limbic,9,Limbic – A
+173,2,1,Visual,1,Visual – Central
+198,2,6,Frontoparietal Control,12,Frontoparietal Control – B
+285,2,6,Frontoparietal Control,13,Frontoparietal Control – C
+372,2,1,Visual,1,Visual – Central
+364,2,7,Default Mode,14,Default Mode – A
+62,1,1,Visual,1,Visual – Central
+304,1,3,Dorsal Attention,6,Dorsal Attention – B
+169,1,1,Visual,1,Visual – Central
+40,1,2,Somatomotor,3,Somatomotor – A
+148,1,4,Salience / Ventral Attention,7,Salience/Ventral Attention – A
+160,0,6,Frontoparietal Control,13,Frontoparietal Control – C
+244,0,2,Somatomotor,3,Somatomotor – A
+276,0,7,Default Mode,15,Default Mode – B
+301,0,0,Unknown,0,Unknown
+61,0,3,Dorsal Attention,6,Dorsal Attention – B
+119,0,1,Visual,1,Visual – Central
+24,0,1,Visual,1,Visual – Central
+171,0,2,Somatomotor,3,Somatomotor – A
+349,0,0,Unknown,0,Unknown

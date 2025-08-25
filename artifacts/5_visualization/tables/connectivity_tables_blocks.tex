@@ -1,0 +1,49 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage{booktabs}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\begin{document}
+\section*{Network-level connectivity tables}
+
+\begin{table}[h!]
+\centering
+\caption{Intra-network connectivity (Yeo-7)}
+\label{tab:intra\_blocks}
+\begin{tabular}{lcccc}
+\toprule
+Connection & HC & ASD & t value & p-value \\
+\midrule
+DMN & 0.1000 ± 0.9975 & -0.1165 ± 0.9914 & -3.22 & 0.002 \\
+LIM & -0.1124 ± 0.9631 & 0.1309 ± 1.0271 & 3.61 & <0.001 \\
+SMN & 0.1469 ± 0.9911 & -0.1711 ± 0.9842 & -4.77 & <0.001 \\
+VIS & 0.1416 ± 1.0283 & -0.1649 ± 0.9408 & -4.62 & <0.001 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\caption{Inter-network connectivity (Yeo-7)}
+\label{tab:inter\_blocks}
+\begin{tabular}{lcccc}
+\toprule
+Connection & HC & ASD & t value & p-value \\
+\midrule
+DAN-LIM & -0.1277 ± 0.9807 & 0.1488 ± 1.0029 & 4.12 & <0.001 \\
+DAN-SAL & 0.1205 ± 0.9563 & -0.1404 ± 1.0321 & -3.87 & <0.001 \\
+DMN-LIM & 0.1995 ± 1.0012 & -0.2323 ± 0.9483 & -6.57 & <0.001 \\
+DMN-SAL & 0.1144 ± 1.0234 & -0.1333 ± 0.9562 & -3.71 & <0.001 \\
+DMN-SMN & 0.0828 ± 0.9577 & -0.0964 ± 1.0400 & -2.64 & 0.015 \\
+DMN-VIS & -0.1010 ± 1.0246 & 0.1176 ± 0.9585 & 3.27 & 0.003 \\
+FPN-LIM & -0.0995 ± 1.0480 & 0.1159 ± 0.9290 & 3.23 & 0.003 \\
+FPN-SAL & -0.0859 ± 1.0207 & 0.1001 ± 0.9670 & 2.77 & 0.011 \\
+LIM-SAL & -0.1583 ± 0.9821 & 0.1844 ± 0.9902 & 5.14 & <0.001 \\
+LIM-SMN & -0.1098 ± 0.9699 & 0.1279 ± 1.0204 & 3.53 & 0.001 \\
+LIM-VIS & 0.1424 ± 0.9860 & -0.1658 ± 0.9917 & -4.61 & <0.001 \\
+SAL-SMN & 0.0800 ± 0.9583 & -0.0931 ± 1.0399 & -2.55 & 0.018 \\
+SMN-VIS & 0.1052 ± 0.9630 & -0.1225 ± 1.0292 & -3.37 & 0.002 \\
+\bottomrule
+\end{tabular}
+\end{table}
+\end{document}

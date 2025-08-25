@@ -1,0 +1,393 @@
+ROI_number,HO_label
+1,Left Lingual Gyrus
+2,Right Frontal Pole
+3,Left Postcentral Gyrus
+4,Right Caudate
+5,Right Supramarginal Gyrus; posterior division
+6,Left Lateral Occipital Cortex; superior division
+7,Left Superior Frontal Gyrus
+8,Right Lateral Occipital Cortex; superior division
+9,Left Insular Cortex
+10,Left Heschl's Gyrus (includes H1 and H2)
+11,Right Cingulate Gyrus; posterior division
+12,Right Amygdala
+13,None
+14,Left Caudate
+15,Right Middle Frontal Gyrus
+16,Right Middle Frontal Gyrus
+17,None
+18,None
+19,Left Temporal Pole
+20,Left Cingulate Gyrus; posterior division
+21,Left Thalamus
+22,Right Central Opercular Cortex
+23,Right Precentral Gyrus
+24,Left Occipital Pole
+25,Left Frontal Orbital Cortex
+26,Right Lateral Occipital Cortex; superior division
+27,None
+28,Left Precentral Gyrus
+29,Right Paracingulate Gyrus
+30,Left Angular Gyrus
+31,Right Frontal Pole
+32,Left Middle Frontal Gyrus
+33,Unknown
+34,Right Temporal Pole
+35,Left Postcentral Gyrus
+36,Left Middle Temporal Gyrus; posterior division
+37,Right Precuneous Cortex
+38,Right Subcallosal Cortex
+39,Left Insular Cortex
+40,Right Precentral Gyrus
+41,None
+42,Left Putamen
+43,Left Occipital Pole
+44,Right Frontal Pole
+45,Left Temporal Fusiform Cortex; anterior division
+46,Right Insular Cortex
+47,Right Cingulate Gyrus; anterior division
+48,Right Inferior Temporal Gyrus; posterior division
+49,Left Postcentral Gyrus
+50,None
+51,Left Precuneous Cortex
+52,Right Superior Temporal Gyrus; posterior division
+53,Right Superior Frontal Gyrus
+54,Right Precentral Gyrus
+55,None
+56,Right Precentral Gyrus
+57,Left Middle Temporal Gyrus; posterior division
+58,Left Precuneous Cortex
+59,Left Superior Frontal Gyrus
+60,Right Paracingulate Gyrus
+61,Right Superior Parietal Lobule
+62,Right Lateral Occipital Cortex; inferior division
+63,Right Occipital Pole
+64,Right Inferior Frontal Gyrus; pars opercularis
+65,Left Planum Temporale
+66,Left Superior Temporal Gyrus; posterior division
+67,Right Caudate
+68,Right Supramarginal Gyrus; anterior division
+69,Right Middle Temporal Gyrus; posterior division
+70,Right Occipital Fusiform Gyrus
+71,Right Thalamus
+72,Left Precentral Gyrus
+73,Left Superior Parietal Lobule
+74,Left Frontal Pole
+75,Right Insular Cortex
+76,Right Lingual Gyrus
+77,Left Cingulate Gyrus; posterior division
+78,None
+79,Unknown
+80,Right Frontal Pole
+81,Right Precentral Gyrus
+82,Left Temporal Pole
+83,None
+84,Right Frontal Pole
+85,Left Hippocampus
+86,Unknown
+87,Left Temporal Fusiform Cortex; posterior division
+88,Left Middle Frontal Gyrus
+89,Right Superior Frontal Gyrus
+90,Left Precentral Gyrus
+91,Left Amygdala
+92,Right Precuneous Cortex
+93,Right Frontal Pole
+94,Left Lateral Occipital Cortex; inferior division
+95,Left Postcentral Gyrus
+96,Right Frontal Pole
+97,None
+98,Right Thalamus
+99,Right Cingulate Gyrus; posterior division
+100,Right Subcallosal Cortex
+101,Right Temporal Pole
+102,Left Postcentral Gyrus
+103,Right Paracingulate Gyrus
+104,Left Superior Parietal Lobule
+105,Right Lateral Occipital Cortex; inferior division
+106,Left Frontal Pole
+107,Right Putamen
+108,Left Cuneal Cortex
+109,Right Cingulate Gyrus; anterior division
+110,Right Inferior Temporal Gyrus; temporooccipital part
+111,Right Temporal Fusiform Cortex; anterior division
+112,Left Temporal Pole
+113,Right Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+114,Left Lateral Occipital Cortex; inferior division
+115,Right Supramarginal Gyrus; posterior division
+116,Right Frontal Pole
+117,Left Postcentral Gyrus
+118,Left Precuneous Cortex
+119,None
+120,Left Lateral Occipital Cortex; superior division
+121,Right Frontal Orbital Cortex
+122,Left Intracalcarine Cortex
+123,Left Frontal Orbital Cortex
+124,Right Postcentral Gyrus
+125,Right Putamen
+126,None
+127,None
+128,Right Middle Temporal Gyrus; posterior division
+129,Left Superior Frontal Gyrus
+130,Left Putamen
+131,Left Inferior Frontal Gyrus; pars opercularis
+132,Left Thalamus
+133,Right Inferior Frontal Gyrus; pars triangularis
+134,None
+135,Right Lateral Occipital Cortex; superior division
+136,None
+137,Right Cingulate Gyrus; posterior division
+138,Left Angular Gyrus
+139,Left Amygdala
+140,Left Frontal Pole
+141,Right Angular Gyrus
+142,Right Frontal Pole
+143,Right Temporal Pole
+144,None
+145,Left Precentral Gyrus
+146,Right Temporal Occipital Fusiform Cortex
+147,Right Precentral Gyrus
+148,Left Insular Cortex
+149,Right Frontal Medial Cortex
+150,Right Superior Frontal Gyrus
+151,Right Occipital Pole
+152,None
+153,Right Middle Frontal Gyrus
+154,Left Superior Frontal Gyrus
+155,Right Middle Temporal Gyrus; temporooccipital part
+156,Left Paracingulate Gyrus
+157,Left Superior Temporal Gyrus; posterior division
+158,Left Paracingulate Gyrus
+159,Right Precentral Gyrus
+160,Left Frontal Pole
+161,Left Central Opercular Cortex
+162,Right Central Opercular Cortex
+163,Right Intracalcarine Cortex
+164,Left Lateral Occipital Cortex; superior division
+165,Right Precentral Gyrus
+166,Right Temporal Fusiform Cortex; posterior division
+167,Left Superior Frontal Gyrus
+168,Left Subcallosal Cortex
+169,Right Lateral Occipital Cortex; inferior division
+170,Right Putamen
+171,Left Postcentral Gyrus
+172,Right Frontal Pole
+173,Left Lateral Occipital Cortex; inferior division
+174,Right Superior Frontal Gyrus
+175,None
+176,Left Occipital Pole
+177,Left Precuneous Cortex
+178,Left Frontal Pole
+179,None
+180,Right Lingual Gyrus
+181,Left Lateral Occipital Cortex; superior division
+182,Left Temporal Pole
+183,Right Lateral Occipital Cortex; superior division
+184,Right Cingulate Gyrus; anterior division
+185,Left Thalamus
+186,Left Middle Frontal Gyrus
+187,Left Precentral Gyrus
+188,Left Temporal Fusiform Cortex; posterior division
+189,Left Lateral Occipital Cortex; superior division
+190,Right Frontal Pole
+191,Right Inferior Frontal Gyrus; pars opercularis
+192,Right Frontal Pole
+193,Left Precuneous Cortex
+194,Right Postcentral Gyrus
+195,None
+196,None
+197,Left Superior Temporal Gyrus; posterior division
+198,Left Frontal Pole
+199,Right Supramarginal Gyrus; anterior division
+200,Right Cingulate Gyrus; posterior division
+201,Right Frontal Orbital Cortex
+202,Left Frontal Pole
+203,Left Temporal Fusiform Cortex; posterior division
+204,None
+205,Right Temporal Pole
+206,Left Supramarginal Gyrus; anterior division
+207,Right Angular Gyrus
+208,Right Hippocampus
+209,Right Middle Temporal Gyrus; posterior division
+210,Left Precentral Gyrus
+211,Left Precuneous Cortex
+212,Right Frontal Pole
+213,None
+214,Left Inferior Frontal Gyrus; pars opercularis
+215,Left Middle Frontal Gyrus
+216,Right Superior Parietal Lobule
+217,Left Angular Gyrus
+218,Right Lateral Occipital Cortex; inferior division
+219,Left Lateral Occipital Cortex; superior division
+220,Right Postcentral Gyrus
+221,Left Frontal Orbital Cortex
+222,Right Middle Frontal Gyrus
+223,Right Cingulate Gyrus; anterior division
+224,Right Insular Cortex
+225,Right Occipital Fusiform Gyrus
+226,Left Paracingulate Gyrus
+227,None
+228,Right Middle Temporal Gyrus; anterior division
+229,Right Lateral Occipital Cortex; superior division
+230,None
+231,Left Occipital Fusiform Gyrus
+232,Right Frontal Pole
+233,Left Thalamus
+234,Left Lateral Occipital Cortex; inferior division
+235,Left Frontal Pole
+236,Right Temporal Pole
+237,Left Angular Gyrus
+238,Left Amygdala
+239,Right Cingulate Gyrus; anterior division
+240,Right Precuneous Cortex
+241,Right Superior Frontal Gyrus
+242,None
+243,Left Middle Temporal Gyrus; anterior division
+244,Right Precentral Gyrus
+245,Right Thalamus
+246,Right Insular Cortex
+247,None
+248,Right Precuneous Cortex
+249,Left Frontal Pole
+250,Right Postcentral Gyrus
+251,Left Middle Temporal Gyrus; temporooccipital part
+252,Right Lateral Occipital Cortex; superior division
+253,None
+254,Left Frontal Pole
+255,Right Superior Frontal Gyrus
+256,Right Cingulate Gyrus; posterior division
+257,Left Postcentral Gyrus
+258,None
+259,Right Lateral Occipital Cortex; inferior division
+260,Left Frontal Orbital Cortex
+261,Left Supramarginal Gyrus; anterior division
+262,Left Parahippocampal Gyrus; posterior division
+263,Left Lateral Occipital Cortex; superior division
+264,Left Frontal Pole
+265,Right Middle Frontal Gyrus
+266,Left Middle Frontal Gyrus
+267,Right Parahippocampal Gyrus; posterior division
+268,Left Thalamus
+269,Right Cuneal Cortex
+270,Right Superior Temporal Gyrus; posterior division
+271,Left Temporal Pole
+272,Right Supramarginal Gyrus; posterior division
+273,Right Frontal Pole
+274,Left Central Opercular Cortex
+275,Right Precuneous Cortex
+276,None
+277,Right Inferior Temporal Gyrus; anterior division
+278,Left Temporal Occipital Fusiform Cortex
+279,Left Middle Frontal Gyrus
+280,Left Middle Temporal Gyrus; posterior division
+281,Right Precentral Gyrus
+282,Left Lingual Gyrus
+283,Left Paracingulate Gyrus
+284,Right Hippocampus
+285,Right Middle Frontal Gyrus
+286,Right Lingual Gyrus
+287,Right Lateral Occipital Cortex; superior division
+288,Right Temporal Pole
+289,Right Frontal Pole
+290,Right Middle Temporal Gyrus; temporooccipital part
+291,Right Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+292,Left Putamen
+293,Left Precentral Gyrus
+294,Right Lateral Occipital Cortex; superior division
+295,None
+296,Left Temporal Fusiform Cortex; posterior division
+297,Left Frontal Pole
+298,Left Temporal Pole
+299,Right Hippocampus
+300,None
+301,None
+302,Right Parietal Operculum Cortex
+303,Left Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+304,Right Precentral Gyrus
+305,Left Central Opercular Cortex
+306,Right Middle Frontal Gyrus
+307,Right Insular Cortex
+308,Right Lateral Occipital Cortex; superior division
+309,Right Parahippocampal Gyrus; posterior division
+310,None
+311,Unknown
+312,Left Inferior Temporal Gyrus; anterior division
+313,Right Temporal Pole
+314,Left Supramarginal Gyrus; posterior division
+315,None
+316,Left Superior Frontal Gyrus
+317,Right Central Opercular Cortex
+318,Left Occipital Fusiform Gyrus
+319,Left Middle Temporal Gyrus; temporooccipital part
+320,Right Frontal Pole
+321,None
+322,Right Temporal Occipital Fusiform Cortex
+323,Right Superior Parietal Lobule
+324,Right Occipital Pole
+325,Right Paracingulate Gyrus
+326,Left Lateral Occipital Cortex; superior division
+327,Right Precuneous Cortex
+328,Right Amygdala
+329,Right Superior Temporal Gyrus; anterior division
+330,Right Temporal Fusiform Cortex; posterior division
+331,Left Heschl's Gyrus (includes H1 and H2)
+332,Left Lingual Gyrus
+333,Right Hippocampus
+334,Left Superior Frontal Gyrus
+335,None
+336,Right Planum Polare
+337,Left Hippocampus
+338,Right Frontal Orbital Cortex
+339,Left Putamen
+340,Left Occipital Pole
+341,Right Angular Gyrus
+342,Right Precuneous Cortex
+343,Left Temporal Pole
+344,Right Postcentral Gyrus
+345,Left Precentral Gyrus
+346,Left Inferior Temporal Gyrus; temporooccipital part
+347,Right Frontal Operculum Cortex
+348,Right Lingual Gyrus
+349,None
+350,None
+351,Left Lingual Gyrus
+352,Right Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+353,Right Occipital Pole
+354,Right Middle Frontal Gyrus
+355,Right Precuneous Cortex
+356,Right Angular Gyrus
+357,None
+358,Unknown
+359,Right Postcentral Gyrus
+360,Left Superior Parietal Lobule
+361,Right Temporal Occipital Fusiform Cortex
+362,Left Occipital Pole
+363,Left Planum Temporale
+364,Right Middle Temporal Gyrus; temporooccipital part
+365,Right Caudate
+366,Left Temporal Pole
+367,Right Lateral Occipital Cortex; inferior division
+368,Left Cingulate Gyrus; posterior division
+369,Unknown
+370,Left Precentral Gyrus
+371,Right Paracingulate Gyrus
+372,Right Lingual Gyrus
+373,Left Caudate
+374,Left Middle Temporal Gyrus; posterior division
+375,Right Putamen
+376,Right Lateral Occipital Cortex; superior division
+377,None
+378,Right Lingual Gyrus
+379,Left Frontal Pole
+380,Right Precentral Gyrus
+381,Left Lateral Occipital Cortex; superior division
+382,Unknown
+383,Right Superior Temporal Gyrus; posterior division
+384,None
+385,Left Frontal Pole
+386,Right Frontal Pole
+387,Right Frontal Pole
+388,Left Temporal Pole
+389,Right Postcentral Gyrus
+390,Unknown
+391,Right Lingual Gyrus
+392,Left Frontal Pole

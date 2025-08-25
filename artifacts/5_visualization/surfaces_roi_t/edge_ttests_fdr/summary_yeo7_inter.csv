@@ -1,0 +1,29 @@
+pair,n_edges,n_unique_rois
+Default Mode ↔ Visual,315,136
+Default Mode ↔ Unknown,271,117
+Unknown ↔ Visual,230,108
+Default Mode ↔ Frontoparietal Control,197,106
+Frontoparietal Control ↔ Visual,180,95
+Default Mode ↔ Somatomotor,172,97
+Default Mode ↔ Dorsal Attention,163,96
+Dorsal Attention ↔ Visual,157,92
+Somatomotor ↔ Visual,152,85
+Salience / Ventral Attention ↔ Visual,144,88
+Frontoparietal Control ↔ Unknown,142,74
+Default Mode ↔ Salience / Ventral Attention,140,92
+Dorsal Attention ↔ Unknown,130,70
+Somatomotor ↔ Unknown,124,67
+Default Mode ↔ Limbic,120,77
+Limbic ↔ Visual,98,64
+Salience / Ventral Attention ↔ Unknown,97,61
+Dorsal Attention ↔ Frontoparietal Control,87,59
+Dorsal Attention ↔ Somatomotor,80,59
+Limbic ↔ Unknown,78,51
+Frontoparietal Control ↔ Salience / Ventral Attention,74,59
+Frontoparietal Control ↔ Somatomotor,72,57
+Salience / Ventral Attention ↔ Somatomotor,71,56
+Dorsal Attention ↔ Salience / Ventral Attention,67,54
+Frontoparietal Control ↔ Limbic,61,45
+Dorsal Attention ↔ Limbic,52,43
+Limbic ↔ Somatomotor,47,38
+Limbic ↔ Salience / Ventral Attention,41,36

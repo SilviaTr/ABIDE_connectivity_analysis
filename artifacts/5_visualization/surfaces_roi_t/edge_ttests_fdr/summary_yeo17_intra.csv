@@ -1,0 +1,19 @@
+network,n_edges,n_unique_rois
+Unknown,111,46
+Temporo-Parietal,25,23
+Visual – Central,24,22
+Dorsal Attention – A,21,17
+Salience/Ventral Attention – A,16,13
+Visual – Peripheral,15,15
+Default Mode – C,12,16
+Limbic – A,10,10
+Frontoparietal Control – C,9,13
+Salience/Ventral Attention – B,9,12
+Default Mode – B,7,8
+Frontoparietal Control – B,7,9
+Somatomotor – B,7,11
+Dorsal Attention – B,6,10
+Somatomotor – A,6,9
+Limbic – B,5,5
+Frontoparietal Control – A,4,5
+Default Mode – A,3,5

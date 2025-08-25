@@ -1,0 +1,154 @@
+pair,n_edges,n_unique_rois
+Temporo-Parietal ↔ Unknown,108,65
+Unknown ↔ Visual – Central,101,61
+Default Mode – C ↔ Unknown,91,62
+Unknown ↔ Visual – Peripheral,83,58
+Somatomotor – B ↔ Unknown,82,47
+Frontoparietal Control – C ↔ Unknown,78,55
+Frontoparietal Control – B ↔ Unknown,69,45
+Temporo-Parietal ↔ Visual – Central,63,52
+Salience/Ventral Attention – B ↔ Unknown,60,46
+Dorsal Attention – A ↔ Unknown,55,47
+Dorsal Attention – B ↔ Unknown,51,39
+Limbic – A ↔ Unknown,51,39
+Salience/Ventral Attention – A ↔ Unknown,51,40
+Default Mode – C ↔ Temporo-Parietal,49,42
+Frontoparietal Control – C ↔ Visual – Central,43,37
+Default Mode – B ↔ Unknown,42,42
+Salience/Ventral Attention – B ↔ Visual – Central,42,41
+Somatomotor – A ↔ Unknown,42,33
+Visual – Central ↔ Visual – Peripheral,42,38
+Somatomotor – B ↔ Visual – Central,41,38
+Default Mode – A ↔ Unknown,39,34
+Default Mode – C ↔ Visual – Peripheral,39,33
+Default Mode – C ↔ Salience/Ventral Attention – A,38,30
+Default Mode – C ↔ Somatomotor – B,38,32
+Default Mode – C ↔ Visual – Central,38,35
+Dorsal Attention – A ↔ Temporo-Parietal,38,36
+Temporo-Parietal ↔ Visual – Peripheral,38,39
+Dorsal Attention – A ↔ Salience/Ventral Attention – A,37,30
+Somatomotor – B ↔ Temporo-Parietal,37,34
+Frontoparietal Control – A ↔ Unknown,36,31
+Default Mode – C ↔ Dorsal Attention – A,35,36
+Frontoparietal Control – C ↔ Temporo-Parietal,35,38
+Salience/Ventral Attention – A ↔ Visual – Central,35,35
+Frontoparietal Control – C ↔ Visual – Peripheral,34,37
+Salience/Ventral Attention – B ↔ Temporo-Parietal,34,39
+Limbic – B ↔ Unknown,33,24
+Dorsal Attention – A ↔ Visual – Peripheral,32,32
+Salience/Ventral Attention – B ↔ Visual – Peripheral,32,32
+Frontoparietal Control – B ↔ Temporo-Parietal,31,31
+Salience/Ventral Attention – A ↔ Temporo-Parietal,31,28
+Default Mode – C ↔ Frontoparietal Control – C,30,29
+Dorsal Attention – A ↔ Visual – Central,30,30
+Limbic – A ↔ Temporo-Parietal,30,34
+Somatomotor – A ↔ Temporo-Parietal,30,29
+Somatomotor – B ↔ Visual – Peripheral,30,25
+Salience/Ventral Attention – A ↔ Somatomotor – B,29,27
+Salience/Ventral Attention – A ↔ Visual – Peripheral,29,30
+Somatomotor – A ↔ Visual – Central,29,28
+Default Mode – B ↔ Visual – Central,28,27
+Frontoparietal Control – B ↔ Salience/Ventral Attention – B,28,30
+Frontoparietal Control – B ↔ Visual – Peripheral,28,26
+Somatomotor – A ↔ Visual – Peripheral,28,27
+Default Mode – C ↔ Frontoparietal Control – B,27,31
+Default Mode – C ↔ Salience/Ventral Attention – B,27,30
+Dorsal Attention – B ↔ Visual – Central,26,25
+Frontoparietal Control – B ↔ Visual – Central,26,25
+Frontoparietal Control – C ↔ Somatomotor – B,26,29
+Default Mode – B ↔ Dorsal Attention – A,25,28
+Default Mode – B ↔ Salience/Ventral Attention – A,25,25
+Dorsal Attention – B ↔ Temporo-Parietal,25,27
+Frontoparietal Control – C ↔ Salience/Ventral Attention – A,25,24
+Frontoparietal Control – C ↔ Salience/Ventral Attention – B,25,27
+Default Mode – C ↔ Dorsal Attention – B,24,21
+Default Mode – B ↔ Visual – Peripheral,23,27
+Dorsal Attention – A ↔ Frontoparietal Control – C,22,25
+Dorsal Attention – A ↔ Somatomotor – A,22,22
+Dorsal Attention – A ↔ Somatomotor – B,22,24
+Dorsal Attention – B ↔ Frontoparietal Control – B,22,20
+Salience/Ventral Attention – A ↔ Somatomotor – A,22,22
+Frontoparietal Control – B ↔ Somatomotor – B,21,19
+Salience/Ventral Attention – A ↔ Salience/Ventral Attention – B,21,23
+Default Mode – A ↔ Visual – Central,20,20
+Default Mode – B ↔ Temporo-Parietal,20,24
+Dorsal Attention – B ↔ Visual – Peripheral,20,24
+Limbic – A ↔ Visual – Central,20,21
+Limbic – A ↔ Visual – Peripheral,20,22
+Salience/Ventral Attention – B ↔ Somatomotor – B,20,25
+Somatomotor – A ↔ Somatomotor – B,20,22
+Default Mode – B ↔ Default Mode – C,19,24
+Frontoparietal Control – B ↔ Limbic – A,19,19
+Limbic – B ↔ Somatomotor – B,19,15
+Dorsal Attention – A ↔ Frontoparietal Control – B,18,21
+Dorsal Attention – A ↔ Salience/Ventral Attention – B,18,27
+Frontoparietal Control – A ↔ Visual – Central,18,18
+Frontoparietal Control – B ↔ Frontoparietal Control – C,18,19
+Limbic – A ↔ Somatomotor – B,18,17
+Limbic – B ↔ Visual – Central,18,18
+Default Mode – A ↔ Salience/Ventral Attention – A,17,19
+Default Mode – B ↔ Frontoparietal Control – C,17,22
+Frontoparietal Control – A ↔ Temporo-Parietal,17,21
+Frontoparietal Control – A ↔ Visual – Peripheral,17,19
+Limbic – B ↔ Temporo-Parietal,17,17
+Default Mode – A ↔ Visual – Peripheral,16,18
+Default Mode – C ↔ Somatomotor – A,16,19
+Dorsal Attention – B ↔ Somatomotor – B,16,19
+Frontoparietal Control – B ↔ Salience/Ventral Attention – A,16,20
+Default Mode – A ↔ Temporo-Parietal,15,21
+Default Mode – B ↔ Somatomotor – B,15,21
+Default Mode – C ↔ Limbic – A,15,15
+Dorsal Attention – A ↔ Dorsal Attention – B,15,18
+Dorsal Attention – B ↔ Limbic – A,15,16
+Dorsal Attention – B ↔ Somatomotor – A,15,19
+Frontoparietal Control – A ↔ Salience/Ventral Attention – A,15,18
+Frontoparietal Control – B ↔ Limbic – B,15,12
+Frontoparietal Control – C ↔ Limbic – B,15,14
+Salience/Ventral Attention – B ↔ Somatomotor – A,15,21
+Default Mode – A ↔ Frontoparietal Control – B,14,20
+Default Mode – B ↔ Salience/Ventral Attention – B,14,19
+Frontoparietal Control – C ↔ Limbic – A,14,16
+Frontoparietal Control – C ↔ Somatomotor – A,14,18
+Dorsal Attention – B ↔ Frontoparietal Control – C,13,12
+Frontoparietal Control – A ↔ Frontoparietal Control – B,13,13
+Frontoparietal Control – A ↔ Limbic – A,13,14
+Frontoparietal Control – B ↔ Somatomotor – A,13,18
+Limbic – A ↔ Salience/Ventral Attention – B,13,19
+Limbic – B ↔ Salience/Ventral Attention – B,13,11
+Limbic – B ↔ Visual – Peripheral,13,16
+Default Mode – A ↔ Frontoparietal Control – C,12,17
+Default Mode – A ↔ Somatomotor – A,12,16
+Default Mode – A ↔ Somatomotor – B,12,16
+Default Mode – B ↔ Frontoparietal Control – B,12,16
+Default Mode – C ↔ Frontoparietal Control – A,12,16
+Default Mode – C ↔ Limbic – B,12,14
+Limbic – A ↔ Salience/Ventral Attention – A,12,17
+Default Mode – B ↔ Dorsal Attention – B,11,17
+Dorsal Attention – A ↔ Frontoparietal Control – A,11,11
+Dorsal Attention – B ↔ Salience/Ventral Attention – A,11,14
+Default Mode – A ↔ Dorsal Attention – A,10,13
+Default Mode – A ↔ Dorsal Attention – B,10,13
+Default Mode – A ↔ Salience/Ventral Attention – B,10,9
+Default Mode – B ↔ Somatomotor – A,10,14
+Dorsal Attention – A ↔ Limbic – A,10,14
+Dorsal Attention – B ↔ Frontoparietal Control – A,10,12
+Dorsal Attention – B ↔ Limbic – B,10,11
+Dorsal Attention – B ↔ Salience/Ventral Attention – B,10,16
+Frontoparietal Control – A ↔ Frontoparietal Control – C,10,13
+Frontoparietal Control – A ↔ Somatomotor – B,10,13
+Default Mode – A ↔ Default Mode – C,9,13
+Default Mode – A ↔ Limbic – A,9,13
+Default Mode – B ↔ Limbic – B,9,9
+Dorsal Attention – A ↔ Limbic – B,9,12
+Frontoparietal Control – A ↔ Limbic – B,9,9
+Default Mode – A ↔ Limbic – B,8,8
+Default Mode – B ↔ Limbic – A,8,12
+Default Mode – A ↔ Default Mode – B,7,12
+Default Mode – B ↔ Frontoparietal Control – A,7,10
+Frontoparietal Control – A ↔ Somatomotor – A,7,8
+Limbic – A ↔ Limbic – B,7,9
+Limbic – A ↔ Somatomotor – A,6,8
+Default Mode – A ↔ Frontoparietal Control – A,5,7
+Frontoparietal Control – A ↔ Salience/Ventral Attention – B,5,8
+Limbic – B ↔ Salience/Ventral Attention – A,5,7
+Limbic – B ↔ Somatomotor – A,5,8
