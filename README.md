@@ -366,16 +366,17 @@ On observe que les deux courbes suivent globalement la même dynamique : elles m
 
 En termes formels, la **corrélation de Pearson** est donnée par : 
 
-$$
-r_{ij} = \frac{\sum_{t=1}^T \left(x_i(t) - \bar{x}_i\right)\left(x_j(t) - \bar{x}_j\right)}{\sqrt{\sum_{t=1}^T \left(x_i(t) - \bar{x}_i\right)^2} \cdot \sqrt{\sum_{t=1}^T \left(x_j(t) - \bar{x}_j\right)^2}}
-$$
 
 
-<div align="left">
+<div style="text-align:center;"> <img src="Images/pearson_formula.png" width="400" /> <div style="font-style:italic;color:#666;">  </div>
+<br>
 
 où $ \bar{x}_i $ est la moyenne temporelle de $ x_i(t) $.
 
-Chaque sujet est donc représenté par une matrice symétrique $\ R \times R \ $ dont les valeurs sont comprises entre \(-1\) et \(+1\). 
+Chaque sujet est donc représenté par une matrice symétrique $\ R \times R \ $ dont les valeurs sont comprises entre (-1) et (+1).
+
+<div align="left">
+
 
 
 <div style="text-align:center;">
@@ -412,9 +413,11 @@ Lorsque la corrélation vraie est proche de 0, la distribution des estimations d
 
 Pour corriger ce déséquilibre, on applique la transformation de Fisher-z :  
 
-$$
-z_{ij} = \frac{1}{2} \ln\left(\frac{1 + r_{ij}}{1 - r_{ij}}\right)
-$$
+<div style="text-align:center;">
+  <img src="Images/fisher_formula.png" width="150" />
+  <div style="font-style:italic;color:#666;"></div>
+</div>
+
 
 Cette opération « étire » les valeurs proches des bornes (–1 et +1) et homogénéise la variance sur l’ensemble de l’échelle, les coefficients ne sont plus bornés.
 
@@ -472,10 +475,10 @@ Pour corriger ces effets de covariables, nous appliquons une **régression liné
 1. Chaque matrice de connectivité (par sujet) est vectorisée en une liste de valeurs correspondant aux $R(R-1)/2$ connexions uniques *(triangle supérieur de la matrice)*.  
 2. Pour chaque connexion $(i,j)$, nous ajustons un modèle linéaire incluant l’âge, le sexe et le site comme covariables : 
 
-
-$$
-z_{ij}^{(s)} = \beta_0 + \beta_1 \,\text{Âge}^{(s)} + \beta_2 \,\text{Sexe}^{(s)} + \sum_k \gamma_k \,\mathbb{1}[\text{Site}_k^{(s)}] + \varepsilon^{(s)}
-$$
+<div style="text-align:center;">
+  <img src="Images/regression_formula.png" width="350" />
+  <div style="font-style:italic;color:#666;"></div>
+</div>
 
 où :  
 - $z_{ij}^{(s)}$ = connectivité Fisher-z de la paire $(i,j)$ chez le sujet $s$,  
@@ -809,10 +812,10 @@ Pour chaque bloc, la PCA condense un grand nombre d’arêtes en **quelques comp
   - **PC1 (z)** : $z(\mathrm{PC}_1)$.
   - **Composite (z)** des $k$ premières PC :
 
-    $$\mathrm{Score}_{\mathrm{comp}}
-      = \sum_{j=1}^{k} z(\mathrm{PC}_j)\, w_j,
-      \qquad
-      w_j = \frac{\mathrm{VarExp}_j}{\sum_{t=1}^{k}\mathrm{VarExp}_t}.$$
+<div style="text-align:center;">
+  <img src="Images/pca_formula.png" width="300" />
+  <div style="font-style:italic;color:#666;"></div>
+</div>
 
     puis **re-z-scorage** du composite : $z(\mathrm{Score}_{\mathrm{comp}})$.
  
@@ -883,15 +886,19 @@ Par défaut, on utilise le **t-test de Welch** (variances potentiellement diffé
 
 Formellement, $\bar{x}, s_x^2$ désignent la moyenne et la variance dans **TDC** (taille $n_1$), et $\bar{y}, s_y^2$ celles dans **ASD** (taille $n_2$) :
 
-$$
-t = \frac{\bar{y} - \bar{x}}{\sqrt{\frac{s_x^2}{n_1} + \frac{s_y^2}{n_2}}}
-$$
+<div style="text-align:center;">
+  <img src="Images/ttest1_formula.png" width="120" />
+  <div style="font-style:italic;color:#666;"></div>
+</div>
+
 
 Les degrés de liberté sont estimés par la formule de **Welch–Satterthwaite** :
-  $$
-  \nu \;=\; \frac{\left(\frac{s_x^2}{n_1}+\frac{s_y^2}{n_2}\right)^2}
-  {\frac{(s_x^2/n_1)^2}{n_1-1}+\frac{(s_y^2/n_2)^2}{n_2-1}}.
-  $$
+
+<div style="text-align:center;">
+  <img src="Images/ttest2_formula.png" width="200" />
+  <div style="font-style:italic;color:#666;"></div>
+</div>
+
 
 </details>
 <br>
@@ -938,9 +945,12 @@ La **FDR de Benjamini–Hochberg (BH)** repose sur le principe suivant:
 2. **Définir un seuil adaptatif** : pour chaque rang $k \in \{1, \dots, m\}$, on calcule la borne $\frac{k}{m}\alpha$, où $\alpha$ est le seuil de faux-découverte fixé (ex. $\alpha = 0.05$).  
 
 3. **Identifier le plus grand indice $k^\*$** tel que :  
-   $$
-   p_{(k^\*)} \leq \frac{k^\*}{m}\alpha
-   $$  
+
+<div style="text-align:center;">
+  <img src="Images/fdr_formula.png" width="100" />
+  <div style="font-style:italic;color:#666;"></div>
+</div>
+
 
 4. **Déclarer significatifs** tous les tests associés aux p-values $p_{(1)}, \dots, p_{(k^\*)}$.  
 
@@ -958,9 +968,10 @@ p = [0.002, \; 0.20, \; 0.03, \; 0.04, \; 0.01]
 $$  
 
 Après tri, elles sont déjà ordonnées :  
-$$
-p_{(1)}=0.002, \; p_{(2)}=0.01, \; p_{(3)}=0.03, \; p_{(4)}=0.04, \; p_{(5)}=0.20
-$$  
+<div style="text-align:center;">
+  <img src="Images/fdr2_formula.png" width="400" />
+  <div style="font-style:italic;color:#666;"></div>
+</div> 
 
 On calcule les seuils adaptatifs $(k/m)\alpha$ :  
 
@@ -974,9 +985,10 @@ On calcule les seuils adaptatifs $(k/m)\alpha$ :
 
 Le plus grand $k$ qui satisfait la condition est :  
 
-$$
-k^\* = 4
-$$  
+<div style="text-align:center;">
+  <img src="Images/fdr3_formula.png" width="80" />
+  <div style="font-style:italic;color:#666;"></div>
+</div>
 
 On déclare donc **significatifs les 4 premiers tests**, et non le cinquième.  
 
