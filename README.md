@@ -503,9 +503,10 @@ Imaginons une connexion $(i,j)$ et trois sujets avec les caractéristiques suiva
 
 On ajuste le modèle linéaire :  
 
-$$
-z_{ij}^{(s)} = \beta_0 + \beta_1 \,\text{Âge}^{(s)} + \beta_2 \,\text{Sexe}^{(s)} + \gamma_1 \,\text{SiteA}^{(s)} + \varepsilon^{(s)}
-$$
+<div style="text-align:center;">
+  <img src="Images/regression_formula.png" width="350" />
+  <div style="font-style:italic;color:#666;"></div>
+</div>
 
 Après estimation des coefficients (par OLS), on obtient par ex. :  
 
